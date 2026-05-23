@@ -1,20 +1,20 @@
 JOHN MICHAEL C. VILLANUEVA 
-HOBBIES 
+## 🎯 HOBBIES 
 - Playing football , watching movies 
 
-LOCATION 
+## 📍  LOCATION 
 -San Pedro abanico zoon 3 
 
-FAVORITE FOOD 
+## 🍽️ FAVORITE FOOD 
 - Adubo manok
 
-SKILLS
+## 💻 SKILLS
 -schematic design| Beginner 
 
-PROJECT 
+## 📁 PROJECT 
 -PCB
 
-FUTURE GOAL
+## 🤖 FUTURE GOAL
 -success Engineering
 
 PHONE NUMBER 
