@@ -19,5 +19,7 @@ FUTURE GOAL
 
 PHONE NUMBER 
 # 09487391630
--Github
+-Github:cjanjan36-lang
+cjanjan36@gmail.com 
+THANKYOU FOR VISITING MY PORTFOLIO
 
