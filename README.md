@@ -1,25 +1,39 @@
-## JOHN MICHAEL C. VILLANUEVA 
-## 🎯 HOBBIES 
-- Playing football , watching movies 
+ECE_ESP32_PCB_JOHN MICHAEL C. VILLANUEVA_EN1B
 
-## 📍  LOCATION 
--San Pedro abanico zoon 3 
+Project Description
 
-## 🍽️ FAVORITE FOOD 
-- Adubo manok
+This project is an ESP32-based PCB designed for Electronics Engineering laboratory and project requirements. The PCB integrates the ESP32 microcontroller for controlling electronic components and supporting wireless communication applications such as automation, sensor monitoring, and embedded systems development.
 
-## 💻 SKILLS
--schematic design| Beginner 
+Features
 
-## 📁 PROJECT 
--PCB
+- ESP32 microcontroller integration
+- Compact and organized PCB layout
+- Supports Wi-Fi and Bluetooth connectivity
+- Compatible with sensors and electronic modules
+- Easy circuit testing and troubleshooting
+- Designed using professional PCB software
 
-## 🤖 FUTURE GOAL
--success Engineering
+Components Used
 
-PHONE NUMBER 
-# 09487391630
--Github:cjanjan36-lang
-cjanjan36@gmail.com 
-THANKYOU FOR VISITING MY PORTFOLIO
+- ESP32 Development Board
+- Resistors
+- Capacitors
+- LEDs
+- Push Buttons
+- Header Pins
+- Jumper Wires
+- PCB Board
+- USB Power Supply
 
+Software Used
+
+- EasyEDA
+- GitHub
+
+Author Name
+
+JOHN MICHAEL C. VILLANUEVA 
+
+Course & Section
+
+ELE/EN1B
