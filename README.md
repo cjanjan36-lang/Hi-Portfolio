@@ -1,4 +1,4 @@
-ELE_ESP32_PCB_JOHN MICHAEL C. VILLANUEVA_EN1B
+ESP32 Expansion broad 
 
 Project Description
 
